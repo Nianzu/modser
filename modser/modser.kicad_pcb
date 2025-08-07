@@ -2018,6 +2018,39 @@
 				(xyz -90 -0 -0)
 			)
 		)
+		(model "C:/Users/Zico/Documents/KiCad_Imported/seeed-studio-xiao-esp32s3-3d_model/XIAO-ESP32S3 v2.step"
+			(offset
+				(xyz -1.5 -6 11.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
+		(model "C:/Users/Zico/Documents/KiCad_Imported/pin-header-male-2-54mm-different-pin-numbers-1.snapshot.2/7-Pin Header - Male - 2.54mm.step"
+			(offset
+				(xyz -7.5 7.5 11)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -180 -0 -0)
+			)
+		)
+		(model "C:/Users/Zico/Documents/KiCad_Imported/pin-header-male-2-54mm-different-pin-numbers-1.snapshot.2/7-Pin Header - Male - 2.54mm.step"
+			(offset
+				(xyz -7.5 -7.5 11)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -180 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 		(layer "F.Cu")
