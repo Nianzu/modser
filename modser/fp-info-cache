@@ -1,4 +1,4 @@
-27732686785368969
+27737950279889425
 AS5600-ASOT
 SOIC127P600X175-8N
 <b>SOIC-8</b><br>
@@ -68701,6 +68701,27 @@ LED_THT
 LED_VCCLite_5381H7_6.35x6.35mm
 Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
 Yellow 5381 Series LED
+0
+2
+2
+LIB_AP63203WU-7
+AP63203WU7
+AP63203WU-7-5
+Integrated Circuit
+0
+6
+6
+LIB_UCL1E101MCL1GS
+CAPAE660X800N
+6.3mm x 7.7mm_2025
+Capacitor Polarised
+0
+2
+2
+LQM2MPN2R2NG0L
+INDC2016X100N
+
+
 0
 2
 2

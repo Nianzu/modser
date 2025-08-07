@@ -5042,7 +5042,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LQM2MPN2R2NG0L:INDC2016X100N"
 			(at 166.37 123.19 0)
 			(effects
 				(font
@@ -5112,7 +5112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LIB_UCL1E101MCL1GS:CAPAE660X800N"
 			(at 166.0652 43.18 0)
 			(effects
 				(font
