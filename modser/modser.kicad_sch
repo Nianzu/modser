@@ -5852,7 +5852,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 276.352 134.62 90)
 			(effects
 				(font
@@ -6058,7 +6058,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 193.04 81.788 90)
 			(effects
 				(font
@@ -6195,7 +6195,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NX3225GD_8MHZ_STD_CRA_3:XTAL_NX3225GD-8MHZ-STD-CRA-3_NDK"
 			(at 180.34 100.33 0)
 			(effects
 				(font
@@ -6265,7 +6265,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 295.91 133.35 0)
 			(effects
 				(font
@@ -6335,7 +6335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm"
 			(at 278.13 143.51 0)
 			(effects
 				(font
@@ -6746,7 +6746,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "27 pf"
+		(property "Value" "22 pf"
 			(at 191.77 111.7599 0)
 			(effects
 				(font
@@ -6755,7 +6755,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 188.9252 114.3 0)
 			(effects
 				(font
@@ -6958,7 +6958,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MCP2515-I_SO:SOIC127P1030X265-18N"
+		(property "Footprint" "MCP2515_I_SO:SOIC127P1030X265-18N"
 			(at 220.98 90.17 0)
 			(effects
 				(font
@@ -7800,7 +7800,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "27 pf"
+		(property "Value" "22 pf"
 			(at 173.99 111.7599 0)
 			(effects
 				(font
@@ -7809,7 +7809,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 171.1452 114.3 0)
 			(effects
 				(font
@@ -8688,7 +8688,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 271.272 127 90)
 			(effects
 				(font
